@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 font: 100%/1.4 Verdana, Arial, Jazz LET, fantasy;}
 .homePage {
-	background: #21330D;
+	background: #465500;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #50633B;
+	background: #b00016;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ font: 100%/1.4 Verdana, Arial, Jazz LET, fantasy;}
 	
 }
 .nav {
-	background: #ADB8A2;
+	background: #6a000d;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,14 +30,14 @@ font: 100%/1.4 Verdana, Arial, Jazz LET, fantasy;}
 	text-align: center;
 }
 .content {
-	background: #ADB8A2;
+	background: #6a000d;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: left;
 }
 .footer {
-	background: #7D8E6B;
+	background: #b00016;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -45,10 +45,10 @@ font: 100%/1.4 Verdana, Arial, Jazz LET, fantasy;}
 	text-align: center;
 }
 a:link {
-     color: #392311;
+     color: #000000;
 }
 a:visited {
-     color: #5E2F42;
+     color: #3f4600;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
